@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5e0027/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶三洞奉道科戒營始
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:07:00.778381'
+  source:
+    repository: kanripo
+    path: KR5e0027/KR5e0027_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:fa7b19aac6fe8aae05da245ef9fbefd80ff24e05e72f5bf50b276e87dbed6c7f
